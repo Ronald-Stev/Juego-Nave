@@ -1,0 +1,14 @@
+D:\B - UTEQ\ALGORITMOS Y PROGRAMACIÓN\Juego_Grupal\Juego_Grupal\bin\Debug\net8.0\Juego_Grupal.exe
+D:\B - UTEQ\ALGORITMOS Y PROGRAMACIÓN\Juego_Grupal\Juego_Grupal\bin\Debug\net8.0\Juego_Grupal.deps.json
+D:\B - UTEQ\ALGORITMOS Y PROGRAMACIÓN\Juego_Grupal\Juego_Grupal\bin\Debug\net8.0\Juego_Grupal.runtimeconfig.json
+D:\B - UTEQ\ALGORITMOS Y PROGRAMACIÓN\Juego_Grupal\Juego_Grupal\bin\Debug\net8.0\Juego_Grupal.dll
+D:\B - UTEQ\ALGORITMOS Y PROGRAMACIÓN\Juego_Grupal\Juego_Grupal\bin\Debug\net8.0\Juego_Grupal.pdb
+D:\B - UTEQ\ALGORITMOS Y PROGRAMACIÓN\Juego_Grupal\Juego_Grupal\obj\Debug\net8.0\Juego_Grupal.GeneratedMSBuildEditorConfig.editorconfig
+D:\B - UTEQ\ALGORITMOS Y PROGRAMACIÓN\Juego_Grupal\Juego_Grupal\obj\Debug\net8.0\Juego_Grupal.AssemblyInfoInputs.cache
+D:\B - UTEQ\ALGORITMOS Y PROGRAMACIÓN\Juego_Grupal\Juego_Grupal\obj\Debug\net8.0\Juego_Grupal.AssemblyInfo.cs
+D:\B - UTEQ\ALGORITMOS Y PROGRAMACIÓN\Juego_Grupal\Juego_Grupal\obj\Debug\net8.0\Juego_Grupal.csproj.CoreCompileInputs.cache
+D:\B - UTEQ\ALGORITMOS Y PROGRAMACIÓN\Juego_Grupal\Juego_Grupal\obj\Debug\net8.0\Juego_Grupal.dll
+D:\B - UTEQ\ALGORITMOS Y PROGRAMACIÓN\Juego_Grupal\Juego_Grupal\obj\Debug\net8.0\refint\Juego_Grupal.dll
+D:\B - UTEQ\ALGORITMOS Y PROGRAMACIÓN\Juego_Grupal\Juego_Grupal\obj\Debug\net8.0\Juego_Grupal.pdb
+D:\B - UTEQ\ALGORITMOS Y PROGRAMACIÓN\Juego_Grupal\Juego_Grupal\obj\Debug\net8.0\Juego_Grupal.genruntimeconfig.cache
+D:\B - UTEQ\ALGORITMOS Y PROGRAMACIÓN\Juego_Grupal\Juego_Grupal\obj\Debug\net8.0\ref\Juego_Grupal.dll
